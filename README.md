@@ -45,15 +45,15 @@ The aim is to design and implement a **2-bit Multiplier** using **Cadence Virtuo
 
 ### Schematicand Symbol of 2-Input AND Gate:
 
-![Screenshot 2025-05-10 160454](https://github.com/user-attachments/assets/7a700f59-c4b4-4006-b791-0a4edf7d1e57)
+<img width="1280" height="719" alt="image" src="https://github.com/user-attachments/assets/38249fde-ed88-49a6-8034-e9fffbcbf164" />
 
-![Screenshot 2025-05-10 160505](https://github.com/user-attachments/assets/4031c7a7-7c0f-4397-a936-ac4f90c4f402)
+<img width="515" height="663" alt="image" src="https://github.com/user-attachments/assets/d428dd29-b44f-4d1b-8955-92b5420093f3" />
 
 ### Schematicand Symbol of 2-Input EX-OR Gate:
 
-![Screenshot 2025-05-10 160515](https://github.com/user-attachments/assets/880ad1be-e8b3-4111-b2ea-2b2c7eb1fd14)
+<img width="1280" height="719" alt="image" src="https://github.com/user-attachments/assets/17ba9083-6b36-450a-85bc-770a711d2b3a" />
 
-![Screenshot 2025-05-10 160523](https://github.com/user-attachments/assets/4230854b-5f8e-43d0-9875-258b457660e3)
+<img width="867" height="687" alt="image" src="https://github.com/user-attachments/assets/b31f7863-4d24-472b-843b-3b00e43807a8" />
 
 ### Schematicand Symbol of Half Adder:
 ![Screenshot 2025-05-10 160535](https://github.com/user-attachments/assets/5d98f983-d6b7-42b9-8f16-17407b2010b2)
