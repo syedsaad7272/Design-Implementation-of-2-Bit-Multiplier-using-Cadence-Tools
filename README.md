@@ -45,13 +45,13 @@ The aim is to design and implement a **2-bit Multiplier** using **Cadence Virtuo
 
 ### Schematicand Symbol of 2-Input AND Gate:
 
-![Screenshot 2025-05-10 160454](https://github.com/user-attachments/assets/7a700f59-c4b4-4006-b791-0a4edf7d1e57)
+![WhatsApp Image 2025-11-19 at 11 34 06_3c21818e](https://github.com/user-attachments/assets/134d2003-ab54-4df5-90bd-2041c0faa0e6)
 
-![Screenshot 2025-05-10 160505](https://github.com/user-attachments/assets/4031c7a7-7c0f-4397-a936-ac4f90c4f402)
+![WhatsApp Image 2025-11-19 at 11 34 05_2e947e88](https://github.com/user-attachments/assets/402d2578-a9ee-4c07-bf4e-10812906a2c8)
 
 ### Schematicand Symbol of 2-Input EX-OR Gate:
 
-![Screenshot 2025-05-10 160515](https://github.com/user-attachments/assets/880ad1be-e8b3-4111-b2ea-2b2c7eb1fd14)
+![WhatsApp Image 2025-11-19 at 11 34 06_2bf515b1](https://github.com/user-attachments/assets/033749d5-c4d8-4716-b214-9a09122792a1)
 
 ![Screenshot 2025-05-10 160523](https://github.com/user-attachments/assets/4230854b-5f8e-43d0-9875-258b457660e3)
 
@@ -70,7 +70,7 @@ The aim is to design and implement a **2-bit Multiplier** using **Cadence Virtuo
 ![image](https://github.com/user-attachments/assets/55864d90-af08-4836-bc90-4cbba80573f8)
 
 
-![Screenshot 2025-05-15 152538](https://github.com/user-attachments/assets/694df39e-3505-4cf1-ae99-21bc428300b7)
+![WhatsApp Image 2025-11-19 at 11 34 07_6ddc07ed](https://github.com/user-attachments/assets/edcd9bea-3611-4a14-98be-111734e60325)
 
 Run Time : 200ns
 
